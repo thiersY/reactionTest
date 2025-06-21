@@ -63,10 +63,7 @@ Pour installer et exécuter ce projet localement, suivez ces étapes :
     git clone [https://github.com/rojolalaina/ReactionTest.git](https://github.com/rojolalaina/ReactionTest.git)
     cd ReactionTest
     ```
-2.  **Ouvrir dans Android Studio :**
-    Ouvrez le projet dans Android Studio (Fichier > Ouvrir, puis sélectionnez le dossier `ReactionTest`).
-3.  **Synchroniser Gradle :** Laissez Gradle synchroniser les dépendances.
-4.  **Exécuter sur un émulateur ou un appareil :**
+2.  **Exécuter sur un émulateur ou un appareil :**
     Cliquez sur le bouton "Run" (le triangle vert) dans Android Studio pour déployer l'application sur un émulateur ou un appareil Android connecté.
 
 ## Captures d'écran
