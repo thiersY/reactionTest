@@ -37,7 +37,7 @@ Cette application contient un élément sonore et visuel conçu pour surprendre 
 
 1.  Lancez un test de réaction.
 2.  Si vous tapez sur l'écran *trop tôt* (avant que les lumières ne deviennent vertes), le message "Trop tôt !" s'affichera.
-3.  À partir de ce moment-là, si vous cliquez **3 fois rapidement** sur le bouton "Rejouer" (dans un intervalle de 7 à 10 secondes après l'affichage de "Trop tôt !"), le screamer se déclenchera !
+3.  À partir de ce moment-là, si vous cliquez **3 fois rapidement** sur le bouton "Rejouer" (dans un intervalle de 200ms à 10 secondes après l'affichage de "Trop tôt !"), le screamer se déclenchera !
 
 **Recommandations :**
 
